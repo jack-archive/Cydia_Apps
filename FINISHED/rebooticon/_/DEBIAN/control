@@ -1,0 +1,10 @@
+Package: com.four.rebooticon
+Name: rebooticon
+Depends: 
+Architecture: iphoneos-arm
+Description: Reboots your iDevice
+Maintainer: Jack Maloney <jmmaloney4@gmail.com>
+Author: Jack Maloney <jmmaloney4@gmail.com>
+Section: Utilities
+Version: 1.0.0-4
+Installed-Size: 56

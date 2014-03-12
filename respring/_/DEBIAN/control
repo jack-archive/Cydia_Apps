@@ -1,0 +1,11 @@
+Package: com.four.respring
+Name: respring
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: Jack Maloney <jmmaloney4@gmail.com>
+Author: Jack Maloney <jmmaloney4@gmail.com>
+Section: System
+Tag: role::hacker
+Version: 1.0.0-3
+Installed-Size: 52

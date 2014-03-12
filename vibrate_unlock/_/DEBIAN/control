@@ -1,0 +1,10 @@
+Package: com.four.vibrateunlock
+Name: vibrate_unlock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jack Maloney
+Author: Jack Maloney
+Section: Tweaks
+Version: 0.0.1-1
+Installed-Size: 88

@@ -1,0 +1,9 @@
+Package: com.four.uialertworkspace
+Name: UIAlertWorkspace
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: When you “slide to power off” it shows an alert that allows you to pick whether you want to respiring normally or into safe mode.
+Maintainer: Jack Maloney
+Author: Jack Maloney
+Section: Tweaks

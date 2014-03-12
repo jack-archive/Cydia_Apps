@@ -1,0 +1,9 @@
+Package: com.four.workspace
+Name: workspace
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jack Maloney
+Author: Jack Maloney
+Section: Tweaks

@@ -1,0 +1,9 @@
+Package: com.four.noheadphoneview
+Name: noheadphoneview
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disables the headphone volume HUD view
+Maintainer: Jack Maloney <jmmaloney4@gmail.com>
+Author: Jack Maloney <jmmaloney4@gmail.com>
+Section: Tweaks

@@ -1,0 +1,10 @@
+Package: com.four.respringonpoweroff
+Name: respringonpoweroff
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Resprings device instead of powering off, when you “Slide to power off”
+Maintainer: Jack Maloney <jmmaloney4@gmail.com>
+Author: Jack Maloney <jmmaloney4@gmail.com>
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 88

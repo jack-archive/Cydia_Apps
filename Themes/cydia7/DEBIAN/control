@@ -1,0 +1,7 @@
+Package: cydia7
+Name: Cydia7 Theme
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: winterboard
+Maintainer: Jack Maloney <jmmaloney4@gmail.com>
+Author: Jack Maloney <jmmaloney4@gmail.com>

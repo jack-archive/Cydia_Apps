@@ -1,0 +1,10 @@
+Package: com.four.vibrate
+Name: vibrate
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Vibrates when SpringBoard Launches.
+Maintainer: Jack Maloney <jmmaloney4@gmail.com>
+Author: Jack Maloney <jmmaloney4@gmail.com>
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 88

@@ -1,0 +1,10 @@
+Package: com.four.id
+Name: id
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: returns device identifier
+Maintainer: Jack Maloney
+Author: Jack Maloney
+Section: System
+Tag: role::hacker
