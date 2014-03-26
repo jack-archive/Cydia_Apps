@@ -1,0 +1,9 @@
+Package: com.four.safemodeicon
+Name: safemodeicon
+Depends: com.saurik.substrate.safemode
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome application that puts your device into safemode
+Maintainer: Jack Maloney <jmmaloney4@gmail.com>
+Author: Jack Maloney <jmmaloney4@gmail.com>
+Section: Utilities

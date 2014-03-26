@@ -1,9 +1,0 @@
-Package: com.four.safemodeicon
-Name: safemodeicon
-Depends: com.saurik.substrate.safemode
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome application!
-Maintainer: Jack Maloney <jmmaloney4@gmail.com>
-Author: Jack Maloney <jmmaloney4@gmail.com>
-Section: Utilities

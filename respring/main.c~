@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main() {
-system("killall -9 SpringBoard");
-printf("Restarted SpringBoard");
-return 0;
-}
