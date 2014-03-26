@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = hi;
+	cell = PSLinkCell;
+	detail = hiListController;
+	icon = hi.png;
+	isController = 1;
+	label = hi;
+    };
+}
